@@ -26,5 +26,5 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Execute shared wf
-        uses: pratrajesh/shared-workflow/.github/workflows/blank.yml
+        uses: pratrajesh/shared-workflow@main
 
